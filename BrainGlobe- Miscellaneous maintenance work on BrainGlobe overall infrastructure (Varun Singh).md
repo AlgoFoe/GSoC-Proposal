@@ -83,8 +83,8 @@
     - Automate the generation and publishing of API reference documentation on the BrainGlobe website.
     - Replace tox with uv across BrainGlobe's CI workflows via GitHub Actions.
     - Improve and modernise the conda-forge release process, including:
-    - Adding setuptools where required
-    - Migrating to conda-forge v1 recipe support
+      - Adding setuptools where required
+      - Migrating to conda-forge v1 recipe support
     - Standardise repository badges and project metadata for consistency.
 
 
